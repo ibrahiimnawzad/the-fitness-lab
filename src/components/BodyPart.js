@@ -12,8 +12,7 @@ const bodyPartImages = {
     'neck': require('../assets/icons/neck-icon.jpeg'),
     'shoulders': require('../assets/icons/shoulders-icon.jpeg'),
     'upper arms': require('../assets/icons/upper-arms-icon.png'),
-    'upper legs': require('../assets/icons/upper-legs-icon2.png'),
-    'upper legs': require('../assets/icons/upper-legs-icon2.png'),
+    'upper legs': require('../assets/icons/upper-legs-icon2.png'), 
     'waist': require('../assets/icons/waist-icon.png'),
 }
 
